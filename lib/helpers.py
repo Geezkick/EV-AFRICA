@@ -62,3 +62,4 @@ def generate_sales_report():
         return report
     finally:
         session.close()
+EOF
