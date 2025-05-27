@@ -1,4 +1,3 @@
-cat << EOF > lib/cli.py
 import click
 from helpers import (
     create_vehicle, delete_vehicle, list_vehicles, find_vehicle_by_model, filter_vehicles_by_price,
